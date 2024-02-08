@@ -1,0 +1,4 @@
+- JDBC가 제공하는 제공한다. ` DriverManager ` 는 라이브러리에 등록된 DB 드라이버들을 관리하고, 커넥션을 획득하는 기능을 제공한다.
+- `DriverManager.getConnection() - > 하면 connection Rquest보내고  구현체들중 하나가 응답을 보냄
+	- URL: 예) ` jdbc:h2:tcp://localhost/~/test 이름, 비밀번호 등 접속에 필요한 추가 정보 `
+	- 
