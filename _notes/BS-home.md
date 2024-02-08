@@ -1,5 +1,5 @@
 ---
-title: This is my Garden Second Brain 
+title: ByeongSu's Garden "Second Brain" 
 ---
 
 ### I'm doing...
